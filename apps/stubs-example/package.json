@@ -19,10 +19,10 @@
     "/public/build"
   ],
   "dependencies": {
-    "@remix-run/node": "1.7.4",
-    "@remix-run/react": "1.7.4",
-    "@remix-run/serve": "1.7.4",
-    "@remix-run/server-runtime": "1.7.4",
+    "@remix-run/node": "0.0.0-experimental-ce81fb82f",
+    "@remix-run/react": "0.0.0-experimental-ce81fb82f",
+    "@remix-run/serve": "0.0.0-experimental-ce81fb82f",
+    "@remix-run/server-runtime": "0.0.0-experimental-ce81fb82f",
     "cross-env": "7.0.3",
     "isbot": "3.6.2",
     "react": "18.2.0",
@@ -31,8 +31,8 @@
   },
   "devDependencies": {
     "@mdx-js/react": "2.1.5",
-    "@remix-run/dev": "1.7.4",
-    "@remix-run/eslint-config": "1.7.4",
+    "@remix-run/dev": "0.0.0-experimental-ce81fb82f",
+    "@remix-run/eslint-config": "0.0.0-experimental-ce81fb82f",
     "@storybook/addon-essentials": "7.0.0-alpha.46",
     "@storybook/addon-interactions": "7.0.0-alpha.46",
     "@storybook/addon-links": "7.0.0-alpha.46",
